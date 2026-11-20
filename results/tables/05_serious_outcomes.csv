@@ -1,0 +1,13 @@
+formulation,outcome,total_reports,reports_with_outcome,percentage
+ENVARSUS XR,Congenital anomaly,111,0,0.0
+PROGRAF,Congenital anomaly,62,0,0.0
+ENVARSUS XR,Death,111,26,23.42
+PROGRAF,Death,62,7,11.29
+ENVARSUS XR,Disability,111,6,5.41
+PROGRAF,Disability,62,3,4.84
+ENVARSUS XR,Hospitalization,111,58,52.25
+PROGRAF,Hospitalization,62,27,43.55
+ENVARSUS XR,Life-threatening,111,2,1.8
+PROGRAF,Life-threatening,62,4,6.45
+ENVARSUS XR,Other medically important events,111,41,36.94
+PROGRAF,Other medically important events,62,41,66.13
